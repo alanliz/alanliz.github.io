@@ -2165,7 +2165,7 @@ input, select, textarea {
 	}
 
 		ul li {
-			padding-left: 0em;
+			padding-left: 0.5em;
 		}
 
 		ul.alt {
@@ -3219,3 +3219,9 @@ input, select, textarea {
 			}
 
 	}
+
+.proyectos{
+	list-style: none;
+	padding: 0 0 0 1.4em;
+	margin: 0 0 0 0em;
+}
